@@ -53,6 +53,6 @@ Example : `--disable-all --enable-cli --enable-cgi --enable-json --enable-liqpay
 
 [php-sdk-binary-tools](https://github.com/microsoft/php-sdk-binary-tools)
 
-#### or download compiled libraries for your architecture and version PHP [here](https://github.com/OsvoDev/cliqpay-src/releases/tag/1.0.0)
+#### or download compiled libraries for your architecture and version PHP [here](https://github.com/OsvoDev/cliqpay/releases/tag/1.0.0)
 
 #### To compile on Linux :
